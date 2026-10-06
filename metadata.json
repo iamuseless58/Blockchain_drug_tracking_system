@@ -1,0 +1,6 @@
+{
+  "name": "DRUGCHAIN - Blockchain Drug Supply Chain Platform",
+  "description": "Enterprise blockchain drug supply chain monitoring, tamper detection security lab, cold-chain IoT telemetry, and digital drug passport verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
